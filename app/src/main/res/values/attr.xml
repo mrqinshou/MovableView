@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MovableView">
+        <attr name="mv_text" format="string" />
+        <attr name="mv_textSize" format="dimension" />
+        <attr name="mv_textColor" format="color" />
+        <attr name="mv_drawable" format="reference" />
+    </declare-styleable>
+</resources>
